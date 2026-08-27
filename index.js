@@ -1,7 +1,6 @@
 const sharePanel = document.querySelector(".share-panel")
 const footerSection = document.querySelector(".footer-section")
 const shareWrapper = document.querySelector(".share-wrapper")
-const articleFooter = document.querySelector(".article-footer")
 const openBtn = document.querySelector(".share-open-btn")
 const closeBtn = document.querySelector(".share-close-btn")
 
